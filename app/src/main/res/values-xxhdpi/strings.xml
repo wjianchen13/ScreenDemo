@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenDemo</string>
+    <string name="screen_dpi">values-xxhdpi</string>
+</resources>
